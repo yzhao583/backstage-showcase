@@ -22,7 +22,7 @@ metadata:
     backstage.io/techdocs-ref: url:https://github.com/janus-idp/backstage-showcase
     backstage.io/kubernetes-namespace: janus-idp
     sonarqube.org/project-key: janus-idp_backstage-showcase
-    azure_container_registry/image-name: hello-world
+    azure-container-registry/image-name: hello-world
 spec:
   type: website
   system: janus-idp
