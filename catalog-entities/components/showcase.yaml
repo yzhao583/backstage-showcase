@@ -29,6 +29,7 @@ spec:
   owner: janus-authors
   lifecycle: production
   dependsOn:
+    - resource:acr
     - resource:pgdb
     - resource:argocd
     - resource:obc
